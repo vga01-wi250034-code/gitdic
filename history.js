@@ -8,4 +8,6 @@ const gameHistory = [
 { turn: 5, player: "playerB", finalPos: "藤沢", event: "無事に移動した！", foundTreasure: false },
 { turn: 6, player: "playerB", finalPos: "箱根湯本", event: "無事に移動した！", foundTreasure: false },
 { turn: 7, player: "playerB", finalPos: "小田原", event: "💡 ヒント発見！ 古文書：「東の海を目指す手前、北へと進路を変える分岐点にそれはある」", foundTreasure: false },
+{ turn: 8, player: "playerB", finalPos: "三崎口", event: "無事に移動した！", foundTreasure: false },
+{ turn: 9, player: "playerB", finalPos: "鎌倉", event: "無事に移動した！", foundTreasure: false },
 ];
